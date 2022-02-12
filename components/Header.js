@@ -8,6 +8,7 @@ function Header() {
         <h1 className={HeaderStyle.title}>
         <span>Climate</span> News
         </h1>
+        <p className={HeaderStyle.description}>Be updated on the latest climate news </p>
     </div>
   )
 }
